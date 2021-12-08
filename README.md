@@ -10,8 +10,8 @@
 Create a website that recommends an artist and their top songs based on the current weather
 
 ## Usage
+- Upon a user search, you are presented with the an icon representation of weather conditions with the temperature and next to that is the music recommendation
 - Application uses two APIs- Open Weather and Audio DB to pull the current weather and artist information
-- Upon a user search, you are presented with the an icon representation of weather conditions, and the temperature. Next to that is the music recommendation
 - Implemented a modal that catches errors
 - Previous searches are stored in local storage
 
