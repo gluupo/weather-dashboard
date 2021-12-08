@@ -1,21 +1,22 @@
 # WEATHER DASHBOARD
-## table of contents
-- [objective](objective)
-- [usage](usage)
-- [visuals](visuals)
-- [deployed site](deployed-site)
-## objective
-as a traveler, i want to see the weather outlook for multiple cities so that i can plan any trips accordingly.
 
-## usage
-- a weather dashboard that after searching for a city, gives you the current weather as well as the 5 day forecast
-- upon a user search, you are presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
-- application shows the uv index and the background color changes to indicate whether the conditions are favorable, moderate, or severe
-- there is an icon representation of weather conditions, the temperature, the wind speed, and the humidity
-- data is stored in local storage so when you click a recent search you can recall it
+## Table of Contents
+- [Objective](Objective)
+- [Usage](Usage)
+- [Visuals](Visuals)
+- [Deployed Site](Deployed-Site)
 
-## visuals
+## Objective
+Create a website that recommends an artist and their top songs based on the current weather
+
+## Usage
+- Application uses two APIs- Open Weather and Audio DB to pull the current weather and artist information
+- Upon a user search, you are presented with the an icon representation of weather conditions, and the temperature. Next to that is the music recommendation
+- Implemented a modal that catches errors
+- Previous searches are stored in local storage
+
+## Visuals
 [![Image from Gyazo](https://i.gyazo.com/88e03576a04f5aee5990c53d1af60472.gif)](https://gyazo.com/88e03576a04f5aee5990c53d1af60472)
 
-## deployed site
-https://gluupo.github.io/weather-dashboard/
+## Deployed Site
+https://dcrlsn.github.io/weather-tunes/
