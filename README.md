@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Tunes
 
 ## Table of Contents
@@ -20,3 +21,6 @@ Create a website that recommends an artist and their top songs based on the curr
 
 ## Deployed Site
 https://dcrlsn.github.io/weather-tunes/
+=======
+# weather-dashboard
+>>>>>>> parent of c7f7c42 (final commit)
