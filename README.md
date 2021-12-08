@@ -1,26 +1,27 @@
-<<<<<<< HEAD
-# Weather Tunes
+# WEATHER DASHBOARD
+## table of contents
+- [objective](objective)
+- [usage](usage)
+- [visuals](visuals)
+- [deployed site](deployed-site)
+## objective
+as a traveler, i want to see the weather outlook for multiple cities so that i can plan any trips accordingly.
 
-## Table of Contents
-- [Objective](Objective)
-- [Usage](Usage)
-- [Visuals](Visuals)
-- [Deployed Site](Deployed-Site)
+## usage
+GIVEN a weather dashboard with form inputs
+WHEN I search for a city
+THEN I am presented with current and future conditions for that city and that city is added to the search history
+WHEN I view current weather conditions for that city
+THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
+WHEN I view the UV index
+THEN I am presented with a color that indicates whether the conditions are favorable, moderate, or severe
+WHEN I view future weather conditions for that city
+THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
+WHEN I click on a city in the search history
+THEN I am again presented with current and future conditions for that city
 
-## Objective
-Create a website that recommends an artist and their top songs based on the current weather
+## visuals
 
-## Usage
-- Upon a user search, you are presented with the an icon representation of weather conditions with the temperature. Next to that is the music recommendation
-- Application uses two APIs- Open Weather and Audio DB to pull the current weather and artist information
-- Implemented a modal that catches errors
-- Previous searches are stored in local storage
 
-## Visuals
-[![Image from Gyazo](https://i.gyazo.com/73b022015c4710e826f9c2915082939a.gif)](https://gyazo.com/73b022015c4710e826f9c2915082939a)
-
-## Deployed Site
-https://dcrlsn.github.io/weather-tunes/
-=======
-# weather-dashboard
->>>>>>> parent of c7f7c42 (final commit)
+## deployed site
+https://gluupo.github.io/weather-dashboard/
