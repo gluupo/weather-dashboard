@@ -1,4 +1,4 @@
-# WEATHER DASHBOARD
+# Weather Tunes
 
 ## Table of Contents
 - [Objective](Objective)
