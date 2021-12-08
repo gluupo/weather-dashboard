@@ -16,7 +16,7 @@ Create a website that recommends an artist and their top songs based on the curr
 - Previous searches are stored in local storage
 
 ## Visuals
-[![Image from Gyazo](https://i.gyazo.com/88e03576a04f5aee5990c53d1af60472.gif)](https://gyazo.com/88e03576a04f5aee5990c53d1af60472)
+[![Image from Gyazo](https://i.gyazo.com/73b022015c4710e826f9c2915082939a.gif)](https://gyazo.com/73b022015c4710e826f9c2915082939a)
 
 ## Deployed Site
 https://dcrlsn.github.io/weather-tunes/
