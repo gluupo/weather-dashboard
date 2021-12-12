@@ -1,0 +1,60 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+div {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+
+main {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#recent {
+    display: block;
+}
+
+#results {
+    width: 900px;
+}
+
+.bg-pinkuu {
+    background-color: yellowgreen;
+    border-radius: 15px;
+}
+
+#form-label {
+    padding: 15px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    width: 70vw;
+} 
+
+.col-2 {
+    display: block;
+    flex-wrap: wrap;
+    background-color: rgb(231, 209, 213);
+    width: 5vw;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px;
+    padding: 15px 15px;
+    border-radius: 15px;
+} 
+
+p {
+    font-size: 15px;
+}
